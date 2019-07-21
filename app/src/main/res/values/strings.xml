@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business App</string>
+    <string name="thanos">Picture of Thanos holding skull of Captain America with American flag in the background</string>
+    <string name="madness_logo">MGC Madness games and comics logo</string>
+    <string name="street_address">3000 Custer Rd #310</string>
+    <string name="city_state">Plano, TX 75075</string>
+    <string name="phone">(972) 943-8135</string>
+</resources>
